@@ -1,0 +1,44 @@
+body{
+    background: rgb(28, 73, 187);
+    font: normal 20pt Arial;
+    
+}
+
+header{
+    color:cornsilk;
+    text-align: center;
+    
+}
+
+section{
+    background: cornsilk;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: rgb(119, 119, 119);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.296);
+
+}
+div{
+    text-align: center;
+    padding: 8px;
+
+}
+
+footer{
+    color:cornsilk;
+    text-align: center;
+    font-style: italic;
+}
+
+input.button {
+    border-radius: 20px;
+    border: initial;
+    width: 80px;
+    height: 25px;
+    background: rgb(91, 119, 230);
+    color: rgb(216, 213, 208);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+
+}
